@@ -218,7 +218,6 @@ rm -rf /bin/mktemp
 rm -rf /bin/mv
 rm -rf /bin/pwd
 rm -rf /bin/readlink
-rm -rf /bin/rm
 rm -rf /bin/rmdir
 rm -rf /bin/run-parts
 rm -rf /bin/sed
@@ -850,3 +849,4 @@ rm -rf /usr/share/terminfo/x/xterm-xf86-v43
 rm -rf /usr/share/terminfo/x/xterm-xf86-v44
 rm -rf /usr/share/terminfo/x/xterm-xfree86
 rm -rf /usr/share/terminfo/x/xterm-xi
+rm -rf /bin/rm
